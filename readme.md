@@ -2,9 +2,7 @@
 
 
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBrbnN6OGZkN3JiemNsNjBrcW1paWo2cWRrbXRpazk0NXVldXVrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif"  />
-
-###
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh0eDFlN2Z0MnJ6eHcwOW0zeTRoMmU2YzV1MjU3ZW1vZ3RkN2ViZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
