@@ -1,6 +1,11 @@
 <h2 align="left">Hi 👋, I'm Saketh</h2>
 
+<p>💻 Java DSA | 🤖 Machine Learning | 🌐 Full-Stack Developer</p>
 
+<p>
+I'm passionate about building efficient solutions through strong problem-solving skills and applying Machine Learning to real-world challenges.
+I enjoy working across the stack — from developing intelligent models in Python to building responsive web applications using modern technologies.
+</p>
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh0eDFlN2Z0MnJ6eHcwOW0zeTRoMmU2YzV1MjU3ZW1vZ3RkN2ViZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif"/>
 
